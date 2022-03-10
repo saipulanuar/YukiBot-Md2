@@ -80,10 +80,10 @@ global.available = false //status online (online)
 // Other
 global.botname = "YukiBot-Md2ོ"
 global.ownername= "ᴹᴿ᭄ KingOfBearོ ×፝֟͜×"
-global.myweb ="https://api-alphabot.herokuapp.com/"
-global.youtube = "https://youtube.com/c/ZeeoneOfc"
+global.myweb ="https://apikey-bear3.herokuapp.com/"
+global.youtube = "https://apikey-bear3.herokuapp.com/"
 global.github = "https://saipulanuar.github.io/"
-global.email = "zeeoneofc@gmail.com"
+global.email = "drakipul1016@gmail.com"
 global.region = "Indonesia"
 global.ownernomer = "6288279268363"
 global.ownernomerr = "+6288279268363"
