@@ -1,32 +1,32 @@
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Alphabot-Md/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/saipulanuar/YukiBot-Md2/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="KING OF BEAR MULTI DEVICE" src="https://img.shields.io/badge/KING OF BEAR MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/DikaArdnt"><img title="Author" src="https://img.shields.io/badge/Author-Dika-red.svg?style=for-the-badge&logo=github"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/saipulanuar/YukiBot-Md2"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/Alphabot-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Alphabot-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Alphabot-Md?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeone-ofc/Alphabot-Md?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FAlphabot-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeone-ofc/Alphabot-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/saipulanuar/followers"><img title="Followers" src="https://img.shields.io/github/followers/saipulanuar?color=red&style=flat-square"></a>
+<a href="https://github.com/saipulanuar/YukiBot-Md2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/saipulanuar/YukiBot-Md2?color=blue&style=flat-square"></a>
+<a href="https://github.com/saipulanuar/YukiBot-Md2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/saipulanuar/YukiBot-Md2?color=red&style=flat-square"></a>
+<a href="https://github.com/saipulanuar/YukiBot-Md2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/saipulanuar/YukiBot-Md2?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/saipulanuar/YukiBot-Md2"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/saipulanuar/YukiBot-Md2/"><img title="Size" src="https://img.shields.io/github/repo-size/saipulanuar/YukiBot-Md2?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaipulanuar%2FYukiBot-Md2&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/saipulanuar/YukiBot-Md2/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#requirements">Requirements</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeone-ofc/Alphabot-Md#donate">Donate</a>
+  <a href="https://github.com/saipulanuar/YukiBot-Md2#requirements">Requirements</a> •
+  <a href="https://github.com/saipulanuar/YukiBot-Md2#instalasi">Installation</a> •
+  <a href="https://github.com/saipulanuar/YukiBot-Md2#thanks-to">Thanks to</a> •
+  <a href="https://github.com/saipulanuar/YukiBot-Md2#Official-Group"> Official Group Bot</a> •
+  <a href="https://github.com/saipulanuar/YukiBot-Md2#donate">Donate</a>
 </p>
 </div>
 
@@ -34,7 +34,7 @@
 ---
 
 ## Information
-> Alpahbot-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). Alphabot-Md is a bot whatsapp using a Baileys library.
+> Alpahbot-Md adalah bot yang awalnya memakai base dari [Chikabot](https://github.com/rashidsiregar28/chikabot/blob/main/README.md), sekarang pindah base [Hisoka-Morou](https://github.com/DikaArdnt/Hisoka-Morou). YukiBot-Md2 is a bot whatsapp using a Baileys library.
 > Jika kamu menemukan semacam bug, harap untuk dimaklumi sementara
 
 ## Bugs and Tester
@@ -58,8 +58,8 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/zeeone-ofc/Alphabot-Md.git
-cd Alphabot-Md
+git clone https://github.com/saipulanuar/YukiBot-Md2.git
+cd YukiBot-Md2
 pkg install yarn
 yarn install
 npm i -g typescript
@@ -78,11 +78,11 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "Alphabot-Mdོ"
+global.botname = "YukiBot-Md2ོ"
 global.ownername= "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeone-ofc.github.io/"
+global.github = "https://saipulanuar.github.io/"
 global.email = "zeeoneofc@gmail.com"
 global.region = "Indonesia"
 global.ownernomer = "62887435047326"
@@ -91,7 +91,7 @@ global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["62887435047326","62887435047326","6285342106390"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© Alphabot-Mdོ' //sticker wm
+global.packname = '© YukiBot-Md2ོ' //sticker wm
 global.author = 'Di Buat Oleh ZeeoneOfc' //sticker wm
 global.sessionName = 'session'
 ```
@@ -135,7 +135,7 @@ Constributor | For Help |
 <a href="https://github.com/FERDIZ-afk"><img src="https://github.com/FERDIZ-afk.png?size=100" width="100" height="100"></a> | [![RASHID](http://github.com/rashidsiregar28.png?size=100)](http://github.com/rashidsiregar28) 
 [Ferdiz](https://github.com/FERDIZ-afk)  | [Rashid](https://github.com/rashidsiregar28)
 For Help | Owner Chikabot |
-<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZEEONE](http://github.com/zeeone-ofc.png?size=100)](http://github.com/zeeone-ofc) 
-[Adiwajshing](https://github.com/adiwajshing) | [zeeone-ofc](https://zeeone-ofc.github.io)
+<a href="https://github.com/adiwajshing"><img src="https://github.com/adiwajshing.png?size=100" width="100" height="100"></a> | [![ZEEONE](http://github.com/saipulanuar.png?size=100)](http://github.com/saipulanuar) 
+[Adiwajshing](https://github.com/adiwajshing) | [saipulanuar](https://saipulanuar.github.io)
 Owner of Baileys | Owner of Api Alphabot |
 
