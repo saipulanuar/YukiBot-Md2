@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/saipulanuar/YukiBot-Md2/blob/v7.1/image/lol_1.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/saipulanuar/Api-Github/blob/main/img1.png" alt="YukiBot-Md2" width="100"/>
 
 
 </p>
