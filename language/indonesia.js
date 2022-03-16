@@ -94,7 +94,7 @@ lapor owner agar segera di perbaiki 🙏
 exports.listMenu = (time, salam, pushname, prefix) => {
     return `*Selamat ${salam} ${pushname}*
 *⌚Time Server : ${time}*
-*📚 List-Menu YukiBot-Md :*
+*📚 List-Menu Yui-Chan :*
 
 ╭─❒ 「 Bot Info 」 
 ├ ${prefix}owner
@@ -620,7 +620,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}metalg text
 ╰❒ ${prefix}metalg text
 
-
 ╭─❒ 「 Others 」
 ├ ${prefix}afk [reason]
 ├ ${prefix}translate kode_bahasa text
@@ -636,31 +635,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}tekateki
 ├ ${prefix}susunkata
 ╰❒ ${prefix}caklontong
-
-
-╭─❒ 「 Asupan Menu 」
-├ ${prefix}chika
-├ ${prefix}delvira
-├ ${prefix}ayu
-├ ${prefix}bunga
-├ ${prefix}aura
-├ ${prefix}nisa
-├ ${prefix}ziva
-├ ${prefix}yana
-├ ${prefix}viona
-├ ${prefix}syania
-├ ${prefix}riri
-├ ${prefix}syifa
-├ ${prefix}mama_gina
-├ ${prefix}alcakenya
-├ ${prefix}mangayutri
-├ ${prefix}rikagusriani
-├ ${prefix}asupan
-├ ${prefix}bocil
-├ ${prefix}geayubi
-├ ${prefix}santuy
-├ ${prefix}ukhty
-╰❒ ${prefix}syifa
 
 ╭─❒ 「 Telegram Sticker 」
 ├ ${prefix}awoawo
@@ -684,19 +658,6 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ ${prefix}sponsbob
 ├ ${prefix}kawan_sponsbob
 ╰❒ ${prefix}tyni
-,
-╭─❒ 「 Random Cewe 」
-├ ${prefix}china 
-├ ${prefix}indonesia 
-├ ${prefix}malaysia 
-├ ${prefix}thailand 
-├ ${prefix}korea 
-├ ${prefix}japan 
-├ ${prefix}vietnam 
-├ ${prefix}jenni 
-├ ${prefix}jiso 
-├ ${prefix}lisa  
-╰❒ ${prefix}rose
 
 ╭─❒ 「 TqTo 」 
 ├ My God
@@ -707,8 +668,8 @@ exports.listMenu = (time, salam, pushname, prefix) => {
 ├ Mhankbarbar
 ├ Nurutomo
 ├ Rashid
-├ KingOfBear
-├ SaipulAnuar
+├ LeonGanz
+├ Rama Agung
 ├ ZeeoneOfc
 ├ Penyedia Module
 ╰❒ And All Support
@@ -769,7 +730,7 @@ exports.source = () =>{
 return`*------「 SOURCE CODE 」 ------*
 
 Base : https://github.com/DikaArdnt/Hisoka-Morou
-Recode : https://www.youtube.com/channel/UCVSEzfCh6VYL3g9ixHnSqXQ
+Recode : https://www.youtube.com/channel/LeonGanz
 `
 }
 exports.tos = (ownernomer) => {
@@ -1332,44 +1293,11 @@ return`╭─❒ 「 Game Menu 」
 `
 }
 exports.asupan = (prefix) =>{
-return`╭─❒ 「 Asupan Menu 」
-├ ${prefix}chika
-├ ${prefix}delvira
-├ ${prefix}ayu
-├ ${prefix}bunga
-├ ${prefix}aura
-├ ${prefix}nisa
-├ ${prefix}ziva
-├ ${prefix}yana
-├ ${prefix}viona
-├ ${prefix}syania
-├ ${prefix}riri
-├ ${prefix}syifa
-├ ${prefix}mama_gina
-├ ${prefix}alcakenya
-├ ${prefix}mangayutri
-├ ${prefix}rikagusriani
-├ ${prefix}asupan
-├ ${prefix}bocil
-├ ${prefix}geayubi
-├ ${prefix}santuy
-├ ${prefix}ukhty
-╰❒ ${prefix}syifa
+return`TOBAT-DESU
 `
 }
 exports.cecan = (prefix) =>{
-return`╭─❒ 「 Random Cewe 」
-├ ${prefix}china 
-├ ${prefix}indonesia 
-├ ${prefix}malaysia 
-├ ${prefix}thailand 
-├ ${prefix}korea 
-├ ${prefix}japan 
-├ ${prefix}vietnam 
-├ ${prefix}jenni 
-├ ${prefix}jiso 
-├ ${prefix}lisa  
-╰❒ ${prefix}rose
+return`TOBAT-DESU
 `
 }
 
@@ -1383,8 +1311,8 @@ exports.tqto = () =>{
 ├ Mhankbarbar
 ├ Nurutomo
 ├ Rashid
-├ KingOfBear
-├ SaipulAnuar
+├ LeonGanz
+├ Rama Agung
 ├ ZeeoneOfc
 ├ Penyedia Module
 ╰❒ And All Support
