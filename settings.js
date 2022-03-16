@@ -19,7 +19,7 @@ global.available = true //status online (online)
 
 // Other
 global.botname = "Yui-Chab" //namabot kalian
-global.ownername = "ᴹᴿ᭄ LeonGanz ×፝֟͜×" //nama kalian
+global.ownername = "LeonGanz ×፝֟͜×" //nama kalian
 global.myweb ="https://bloglumajangteamsec.my.id" //bebas asal jan hapus
 global.youtube = "https://www.youtube.com/c/LeonGanz" //bebas asal jan hapus
 global.github = "https://bl4ck-lion.github.io/index.php" //bebas
