@@ -18,7 +18,7 @@ global.autoketik = false //status auto mengetik (auto typing)
 global.available = true //status online (online)
 
 // Other
-global.botname = "Yui-Chab" //namabot kalian
+global.botname = "Yui-Chan" //namabot kalian
 global.ownername = "LeonGanz ×፝֟͜×" //nama kalian
 global.myweb ="https://bloglumajangteamsec.my.id" //bebas asal jan hapus
 global.youtube = "https://www.youtube.com/c/LeonGanz" //bebas asal jan hapus
